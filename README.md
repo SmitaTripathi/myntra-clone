@@ -1,1 +1,1 @@
-# ![MYNTRA CLONE](./Caret.png)
+# ![MYNTRA CLONE]
