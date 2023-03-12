@@ -1,1 +1,1 @@
-# ![Myntra Clone](./Myntra-logo.png)
+# ![Myntra Clone](./Myntra-Logo.png)
